@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="item_title">28sp</dimen>
+    <dimen name="contents_title"></dimen>
+
+    <dimen name="activity_main_image_height">200dp</dimen>
+    <dimen name="activity_main_padding">10dp</dimen>
+    <dimen name="activity_main_line">1dp</dimen>
+    <dimen name="activity_main_like_button_dimen">30dp</dimen>
+    <dimen name="activity_main_like_button_margin_end">30dp</dimen>
+    <dimen name="activity_main_margin_between_objs">50dp</dimen>
+    <dimen name="activity_main_paddinr_between_radio_btn">10dp</dimen>
+    <dimen name="activity_main_paddinr_between_radio_square_radious">6dp</dimen>
+    <dimen name="activity_main_icon_size">50dp</dimen>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tarea2</string>
+
+    <string name="bicicle_name_text_view">VINTAGE BICYCLE</string>
+    <string name="color_text_view">COLORES</string>
+    <string name="description_title_text_view">DESCRIPCION</string>
+    <string name="measurement_title_text_view">MEDIDAS</string>
+    <string name="add_to_car_button">AÑADIDO AL CARRITO</string>
+    <string name="toast_like_button">+1 to Vintage Bicycle</string>
+    <string name="btn_s_size">S</string>
+    <string name="btn_m_size">M</string>
+    <string name="btn_long_size">L</string>
+    <string name="btn_xl_size">XL</string>
+
+    <string name="measurment_content_text_view">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vel ornare purus, id feugiat leo. Curabitur vestibulum erat vitae fringilla pretium. Nullam tincidunt tincidunt sapien, sit amet eleifend diam volutpat non. Nullam ultricies sem libero, et sodales urna porttitor a. Suspendisse pretium augue tempor velit tristique congue. Donec lorem velit, sodales eu accumsan ut, eleifend vel nunc. Phasellus mauris metus, convallis accumsan imperdiet sed, aliquet eget nisl. Nunc interdum facilisis viverra. Nam pulvinar odio sit amet sapien venenatis, quis tincidunt sapien cursus. Mauris egestas, purus et tincidunt vulputate, felis risus vulputate lacus, quis scelerisque enim nunc pulvinar nulla. Suspendisse laoreet pulvinar nulla, a egestas ipsum feugiat eu. In blandit, ligula et pulvinar hendrerit, enim mi aliquam lacus, sed vulputate lectus justo vel magna. Aliquam vulputate ornare euismod. Fusce sapien magna, tincidunt eu magna ut, vulputate fermentum massa. </string>
+    <string name="description_content_text_view">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vel ornare purus, id feugiat leo. Curabitur vestibulum erat vitae fringilla pretium. </string>
+
+</resources>
